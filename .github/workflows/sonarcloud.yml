@@ -1,4 +1,4 @@
-GIT PUSHname: SonarCloud
+name: SonarCloud
 on:
   push:
     branches:

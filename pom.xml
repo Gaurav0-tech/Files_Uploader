@@ -15,9 +15,10 @@
     <description>Spring Boot upload multipart files</description>
 
     <properties>
-  <sonar.organization>gaurav0-tech</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+            <sonar.organization>gaurav0-tech</sonar.organization>
+            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+            <java.version>11</java.version>
+    </properties>
 
     <dependencies>
         <dependency>
